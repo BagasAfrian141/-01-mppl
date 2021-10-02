@@ -1,0 +1,135 @@
+Metode air terjun atau yang sering disebut metode waterfall sering dinamakan siklus hidup klasik (classic life cycle), dimana hal ini menggambarkan pendekatan yang sistematis dan juga berurutan pada pengembangan perangkat lunak, dimulai dengan spesifikasi kebutuhan pengguna lalu berlanjut melalui tahapan-tahapan perencanaan (planning), permodelan (modeling), konstruksi (construction), serta penyerahan sistem ke para pelanggan/pengguna (deployment), yang diakhiri dengan dukungan pada perangkat lunak lengkap yang dihasilkan. Terdapat 5 tahapan metode pada waterfall, yaitu :
+
+1. Requirement analisis
+Tahap ini biasanya dapat diperoleh melalui wawancara
+2. System Design
+Desain Sistem membantu dalam menentukan perangkat keras(hardware) dan sistem persyaratan dan juga membantu dalam mendefinisikan arsitektur sistem secara keseluruhan.
+3. Implementation
+Pada tahap ini, sistem pertama kali dikembangkan di program kecil yang disebut unit, yang terintegrasi dalam tahap selanjutnya.
+4. Integrarion & testing
+Unit yang dikembangkan akan diintegrasikan ke dalam sistem setelah pengujian yang dilakukan masing-masing unit
+5. Operation & maintenance
+Tahap akhir dalam model waterfall. Perangkat lunak yang  sudah  jadi,  dijalankan  serta dilakukan  pemeliharaan.
+
+Salah satu jurnal yang membahas mengenai penggunaan metode waterfall dalam membangung sistem informasi ialah jurnal Khaizul Rizal (2 September 2018). Dalam jurnal tersebut membahas mengenai pembuatan sistem informasi penjual obat berbasis desktop menggunakan model waterfall. Dalam perencanaan pembangunan sistem-nya, terdiri dari beberapa langkah seperti menganalisa kebutuhan, mendesain, pengkodean dan pengujian. Penjelasan lebih lengkapnya sebagai berikut :
+
+Judul : Rancang bangun sistem informasi penjualan obat berbasis dekstop dengan model waterfall
+Oleh  : Khaizul Rizal (2 september 2018)
+
+Metode Penelitian:
+1. Metode pengumpulan data 
+a) Observasi
+Dalam hal ini penulisan melakukan observasi atau pengamatan langsung pada apotik zam-zam.
+b) Wawancara
+Adalah komunikasi dua arah untuk mendapatkan data dari responden yang dapat di percaya sebagai masukan untuk melengkapi penelitian ini.
+c) Studi Pustaka
+Studi pustaka yang dilakukan, yaitu dengan mempelajari serta mengumpulkan teori- teori yang dibahas guna memperoleh data serta informasi tertulis yang berhubungan dengan masalah yang dikemukakan.
+
+2. Metode pengembangan sistem 
+a) Analisa 
+Merupakan proses pengumpulan kebutuhan sistem informasi.
+b) Desain
+Desain perangkat lunak adalah proses multi langka yang fokus pada desain pembuatan program perangkat lunak termasuk struktur data, arsitektur perangkat lunak, representasi antarmuka dan prosedur pengodean.
+c) Perkodean
+Merupakan proses penulian bahasa program penulisan bahasa program agar sistem informasi  tersebut dapat dijadikan oleh mesin.
+d) Pengujian
+Fokus pada perangkat lunak secara dari segi lojik dan fungsional dan memastikan bahwa semua bagian suda diuji.
+
+Hasil Dan Pembahasan :
+1. Analisa kebutuhan 
+    a) Apoteker
+        1. Apoteker dapat login dan logout.
+        2. Dapat mengelola data obat. 
+    b) Kasir
+        1. Kasir dapat login dan logout. 
+        2. Dapat mengelola data konsumen. 
+        3. Dapat mengelola data transaksi. 
+        4. Dapat mengelola laporan.  
+    c) Pemilik Apotik
+        1. Dapat login dan logout.
+        2. Dapat melihat laporan penjualan. 
+2. Desain 
+    a) Desain sistem 
+    b) Desain Database
+    c) Desain tampilan
+3. Perkodean 
+Penerapan sistem informasi penjualan ini menggunakan aplikasi visual basic sebagai rancangan pemogramanya.
+4.Pengujian 
+Menggunakan pengujian dengan metode blackbox.
+
+Pada kasus yang kami miliki, kami ingin membuat sistem informasi penjualan berbasis desktop pada Toko Mainan Anak Dana Sentosa menggunakan metode waterfall dengan tahab-tahab pengerjaan sesuai dengan jurnal oleh Khaizul Rizal. Perencanaan pembuatan sistem informasi penjual pada Toko Mainan Anak Dana Sentosa sebagai berikut :
+
+Judul : Penggunaan metode waterfall dalam pembuatan sistem informasi penjualan berbasisdesktop pada Toko Mainan Anak Dana Sentosa.
+Oleh : Eka Dinata P. P (18120067), Catenary F (18120085), Moch. Abdul Rohman (18120078)
+
+Metode Penelitian:
+1. Metode pengumpulan data 
+a) Observasi
+Kami melakukan observasi atau pengamatan pada toko mainan anak Dana Sentosa danbeberapa toko mainan lain, sehingga dengan semakin banyak objek atau toko mainan yang kamiobservasi, kami berharap mendapatkan hasil penelitian yang cukup serta dapat digunakan untukmembuat sistem .
+
+b) Wawancara
+Dalam hal ini kami melakukan wawancara pada salah satu pelaku kegiatan penjualan pada tokomainan yaitu pemilih toko dengan pertanyaan-pertanyaan yang akan kami ajukan sebagai berikut :
+- Apa motivasi awal untuk berdagang?
+- Apa dan berapa produk yang dijual ? Dalam kasus ini adalah jenis-jenis mainan.
+- Bagaimana prosedur pembelian barangnya ?
+- Berapakah rata-rata perolehan selama sebulan ?
+- Apakah ada dan apa saja kendala selama berdagang ?
+- Bagaimana cara mengatasi kendala dalam berdagang ?
+- Efektifkah cara yang digunakan dalam mengatasi kendala ?
+- Aplikasi apakah yang digunakan oleh toko ini sekarang untuk menunjang proses bisnis?
+- Apakah aplikasi yang digunakan sudah mendukung database ?
+- Apakah aplikasi yang digunakan saat ini sudah sangat ,membantu dalam berbisnis ?
+- Aplikasi apakah yang dibutuhkan untuk menunjang proses bisnis ?
+- Apakah sistem atau aplikasi tersebut berbasis web atau desktop ?
+- Fitur apa saja yang dibutuhkan dalam sistem aplikasi itu ?
+- Informasi apa saja yang diperlukan di dalam aplikasi itu ?
+- Data apa saja yang berhubungan dengan aplikasi yang ini ?
+- Siapa saja yang akan menggunakan aplikasi ini ?
+- Apakah ada tambahan tertentu yang diinginkan pada aplikasi yang ini ?
+- Jika memang membutuhkan aplikasi, apakah keuntungan yang akan didapat ?
+- Apa saja yang diharapkan dari aplikasi ini ?
+        
+c) Studi Pustaka
+Studi pustaka yang dilakukan, yaitu dengan mempelajari serta mengumpulkan teori- teori yang dibahas guna memperoleh data serta informasi tertulis yang berhubungan dengan masalah yang dikemukakan
+
+2. Metode pengembangan sistem 
+a) Analisa 
+Merupakan proses pengumpulan kebutuhan sistem informasi yang diperlukan dalam pembuatan sistem.
+b) Desain
+Merupakan pembuatan rancangan program perangkat lunak termasuk struktur data, arsitektur perangkat lunak, representasi antarmuka dan prosedur pengodean.
+c) Perkodean 
+Merupakan proses penulisan bahasa program penulisan bahasa program agar sistem informasi tersebut dapat dijadikan oleh mesin.
+d) Pengujian
+Fokus pada perangkat lunak secara dari segi lojik dan fungsional dan memastikan bahwa semua bagian sudah diuji.
+
+Hasil Dan Pembahasan :
+1. Analisa kebutuhan
+a) Observasi
+Dari hasil observasi, dapat disimpulkan banyak dari beberapa toko mainan yang menjual banyak jenis mainan. Pada toko mainan anak Dana Sentosa sendiri menjual 3 jenis mainan yaitu boneka, robot dan mobil. Tiga jenis mainan tersebut juga dijual oleh beberapa toko. Dalam proses perdagangannya, banyak toko mainan termasuk Dana Sentosa juga masih berbasis manual sehingga dari pengakuan pemilik toko mendapati kendala seperti sering terjadi kesalahan dalam pendataan dan pengecekan data atau laporan. Hasil lain juga menyimpulkan banyak para pemilik toko mengaku mereka menginginkan sebuah sistem penjualan baru yang ter komputerisasi supaya produk mereka lebih cepat diketahui sehingga cepat laku. Selain itu, keinginan tersebut juga didasari oleh sebab yang hampir sama, yaitu konsumen mereka menginginkan cara lain agar mereka dapat membeli produk lebih mudah serta cepat dalam proses pembeliannya.
+
+b) Wawancara
+Dari wawancara, didapat hasil kebutuhan dalam penggunaan aplikasi dengan prosedur sebagai berikut : 
+1) Pemilik Toko
+    a. Pemilik toko dapat login dan logout.
+    b. Dapat melihat data produk.
+    c. Dapat melihat data transaksi.
+    d. Dapat melihat data konsumen.
+    e. Dapat melihat laporan. 
+2) Pegawai
+    a. Pegawai dapat login dan logout.
+    b. Dapat mengelola data produk.
+    c. Dapat mengelola data konsumen.
+    d. Dapat mengelola data transaksi. 
+    e. Dapat mengelola laporan.  
+3) Pembeli
+    a. Dapat login dan logout.
+    b. Dapat melihat, memesan dan membeli produk yang dijual.
+    c. Dapat melihat laporan transaksi yang telah dilakukan.
+2. Desain 
+    a) Desain sistem 
+    b) Desain Database
+    c) Desain tampilan 
+3. Perkodean 
+Pada pembuatan sistem ini, kami menggunakan bahasa pemrograman JAVA.
+4.Pengujian 
+Pada pengujian sistem ini kami menggunakan metode black box yaitu pengujian yang dilakukan pada tampilan program apakah program dapat berjalan dengan baik sesuai yang diinginkan.
